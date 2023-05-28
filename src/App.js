@@ -13,6 +13,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />}></Route>
+          <Route path="/React-Travel-Portfolio-Site" element={<Home />}></Route>
           <Route path="/services" element={<Services />}></Route>
           <Route path="/products" element={<Products />}></Route>
           <Route path="/sign-up" element={<Signup />}></Route>
