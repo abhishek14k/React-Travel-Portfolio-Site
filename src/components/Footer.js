@@ -2,6 +2,7 @@ import React from "react";
 import "./Footer.css";
 import { Button } from "./Button";
 import { Link } from "react-router-dom";
+import { FaBeer } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -64,8 +65,7 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              TRIPPIEEE
-              <i class="fab fa-typo3" />
+              TRIPPIEEE <FaBeer />
             </Link>
           </div>
           <small class="website-rights">TRIPPIEEE © 2023</small>
