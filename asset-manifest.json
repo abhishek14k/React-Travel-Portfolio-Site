@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Travel-Portfolio-Site/static/css/main.5fa3bdc6.css",
-    "main.js": "/React-Travel-Portfolio-Site/static/js/main.8373cdb8.js",
+    "main.js": "/React-Travel-Portfolio-Site/static/js/main.8b431602.js",
     "static/media/img-2.jpg": "/React-Travel-Portfolio-Site/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/React-Travel-Portfolio-Site/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-3.jpg": "/React-Travel-Portfolio-Site/static/media/img-3.6d683c0ee6824af7961a.jpg",
@@ -11,10 +11,10 @@
     "static/media/img-8.jpg": "/React-Travel-Portfolio-Site/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/React-Travel-Portfolio-Site/index.html",
     "main.5fa3bdc6.css.map": "/React-Travel-Portfolio-Site/static/css/main.5fa3bdc6.css.map",
-    "main.8373cdb8.js.map": "/React-Travel-Portfolio-Site/static/js/main.8373cdb8.js.map"
+    "main.8b431602.js.map": "/React-Travel-Portfolio-Site/static/js/main.8b431602.js.map"
   },
   "entrypoints": [
     "static/css/main.5fa3bdc6.css",
-    "static/js/main.8373cdb8.js"
+    "static/js/main.8b431602.js"
   ]
 }
